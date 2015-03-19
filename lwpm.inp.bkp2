@@ -1,0 +1,13 @@
+case-id     OMEGA Regiao da Argentina                         
+tx lwpc 
+tx-data     NAA 24.0 44.633 67.283 1000 0                 
+ionosphere lwpm mar/15/2008 12:00
+receivers      -12.50  76.8
+range-max    13100.0                                
+print-lwf 2                                                   
+print-swg 2                                                  
+ print-mds 1   
+a-noise    ntia Mar/25/2009 20:00 
+lwflds                            
+start                                                         
+quit

@@ -1,0 +1,11 @@
+case-id lwpc                        
+tx lwpc 
+tx-data   NAA 24.0 44.633 67.283 1000 0                 
+ionosphere lwpm Jan/15/2008 11:00
+receivers      -12.50  76.8
+rx-data     vertical 0                                        
+range-max    6456
+ print-lwf 2                                                   
+print-swg 1  
+start                                                         
+quit 
